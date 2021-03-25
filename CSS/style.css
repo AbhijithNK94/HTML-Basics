@@ -1,0 +1,22 @@
+table{
+    border: 5px solid black;
+    width: 100%;        
+    }
+thead{
+    background-color: cornflowerblue;
+    text-align: center;
+    padding: 20px 20px;
+    font-size: large;
+}
+thead:hover{
+    background-color: darkgreen;
+}
+td{
+    background-color: gray;
+    text-align: center;
+    padding: 20px 20px;
+    font-size: medium;
+}
+td:hover{
+    background-color: green;
+}
